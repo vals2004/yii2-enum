@@ -1,6 +1,6 @@
 {
-    "name": "yii2mod/yii2-enum",
-    "description": "Yii2 Enumerable helpers",
+    "name": "vals2004/yii2-enum",
+    "description": "Yii2 Enumerable helpers and tools",
     "type": "yii2-extension",
     "keywords": ["yii2", "extension"],
     "license": "MIT",
@@ -8,7 +8,10 @@
         {
             "name": "Dmitry Semenov",
             "email": "disemx@gmail.com"
-        }
+        },
+        {
+            "name": "Valeriy Zavolodko",
+            "email": "vals2004@gmail.com"
     ],
     "require": {
         "yiisoft/yii2": "*"
